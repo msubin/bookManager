@@ -1,6 +1,5 @@
 """
 Name: Subin Moon
-Student Number: A01238145
 
 books.py
 """
